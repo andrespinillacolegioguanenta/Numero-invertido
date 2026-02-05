@@ -15,7 +15,7 @@ Programa en phyton para invertir un número de 4 cifras
 
 - ni = número invertido
 
-ni = r4*1000 + r3*100 + r2*10 + r1
+$ni = r4*1000 + r3*100 + r2*10 + r1$
 
 # Diseño
 ![Diagrama de flujo](diagram.png)
